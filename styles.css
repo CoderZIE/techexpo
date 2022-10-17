@@ -1,0 +1,151 @@
+body{
+    background-image: url(https://drive.google.com/uc?export=view&id=1_9G5jfduECycMWTCrXmJvrlFy9HEd6iW);
+    margin: 0;
+    font-family: Helvetica;
+}
+
+#parallex{
+    background-image: url(https://drive.google.com/uc?export=view&id=1_9G5jfduECycMWTCrXmJvrlFy9HEd6iW);
+    z-index: -1;
+    height: 100vh;
+}
+
+.line{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 6rem;
+}
+
+.line5{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 10rem;
+}
+
+.line1{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 3rem;
+}
+
+.line2{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 7rem;
+}
+
+.line3{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 2rem;
+}
+
+.line4{
+    /* justify-content: center; */
+    border-top: 2px solid white;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 4rem;
+}
+
+
+
+
+.linemodified{
+    border-top: 2px solid white;
+    width: 6rem;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.heading{
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+    color: aliceblue;
+    font-size: 2.5rem;
+}
+
+.tl{
+    margin-top: 1rem;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.para{
+    background-color: rgba(0, 0, 255, 0.1);
+    opacity: 1;
+    margin: 2rem;
+    border: 2px solid white;
+    color: rgba(255, 255, 255, 1);
+    text-align: justify;
+    width:80%;
+    border-radius: 10px;
+}
+
+.para p{
+    padding: 1rem;
+    padding-inline: 2rem;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.paramodi{
+    margin-left: 2%;
+    margin-bottom: 10px;
+    margin-right: 2%;
+}
+
+.headingcards{
+    padding: 1rem;
+}
+
+.info{
+    width: 70%
+  }
+
+#img {
+    width: 30%;
+    background-color: white;
+    border-radius: 0 40px 20px 0;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 0 40px 20px 0;
+  }
+
+.all_warp{
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: center;
+  color: white;
+  width: 80%;
+  justify-content: space-evenly;
+  font-size: 1.3rem;
+  margin: 3rem;
+  border: 2px solid white;
+  color: rgba(255, 255, 255, 1);
+  border-radius: 10px 50px 29px 10px;
+  background-color: rgba(0, 0, 255, 0.1);
+  opacity: 1;
+  font-size: 1.3rem;
+}
